@@ -2,7 +2,7 @@
 
 <br>
 
-# ✦ YOUSSEF EL GUERDANY ✦
+#  YOUSSEF EL GUERDANY 
 
 ### 🔴 Delphi Developer · Object Pascal · Software Engineering
 
@@ -24,7 +24,7 @@
 
 <br><br>
 
-⭐ **WELCOME TO MY DELPHI WORLD** ⭐
+ **WELCOME TO MY DELPHI WORLD** 
 
 </div>
 
