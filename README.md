@@ -1,45 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280" role="img" aria-label="Delphi evolution from Pascal to modern software development">
-  <rect width="900" height="280" rx="12" fill="#111111"/>
-  <rect x="0" y="0" width="900" height="36" rx="12" fill="#1c1c1c"/>
-  <circle cx="22" cy="18" r="5" fill="#555555"/>
-  <circle cx="40" cy="18" r="5" fill="#555555"/>
-  <circle cx="58" cy="18" r="5" fill="#555555"/>
-  <text x="78" y="23" fill="#777777" font-family="monospace" font-size="12">delphi@developer:~</text>
+<div align="center">
 
-  <g font-family="monospace" font-size="16" fill="#d4d4d4">
-    <text x="35" y="75">
-      <tspan fill="#888888">$</tspan> history
-    </text>
+# Youssef El Guerdany
+### Softwareentwickler • Delphi-Spezialist • Agadir, Marokko
 
-```
-<text x="35" y="108" fill="#888888">
-  <tspan fill="#888888">01</tspan> Pascal
-</text>
+[ 🇬🇧 English ](README.md) &nbsp;|&nbsp; [ 🇩🇪 Deutsch ](README.de.md)
 
-<text x="35" y="138" fill="#888888">
-  <tspan fill="#888888">02</tspan> Delphi
-</text>
+</div>
 
-<text x="35" y="168" fill="#888888">
-  <tspan fill="#888888">03</tspan> Modern Software
-</text>
+---
 
-<text x="35" y="198" fill="#888888">
-  <tspan fill="#888888">04</tspan> AI-assisted Development
-</text>
+<p align="center">
+  <img src="assets/hero-animation.svg" alt="Youssef El Guerdany - Animation zur Evolution der Softwareentwicklung" />
+</p>
 
-<text x="35" y="238" fill="#d4d4d4">
-  <tspan fill="#888888">$</tspan> <tspan fill="#ffffff">echo</tspan> "The language evolves. The developer evolves."
-</text>
-```
+---
 
-  </g>
+## Über mich
 
-  <g font-family="monospace" font-size="14" fill="#666666">
-    <text x="35" y="258">Delphi · Software Development · Morocco</text>
-  </g>
+Ich bin **Youssef El Guerdany**, Softwareentwickler aus **Agadir, Marokko**, mit einem starken Schwerpunkt auf der **Delphi-Entwicklung**.
 
-  <rect x="35" y="250" width="8" height="16" fill="#d4d4d4">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-  </rect>
-</svg>
+Ich arbeite an Geschäftsanwendungen, Backend-Diensten und bestehenden Softwaresystemen. Mein Ziel ist es, verlässliche, wartbare Software zu entwickeln und meine ingenieurtechnischen Fähigkeiten kontinuierlich zu verbessern. Neben meiner Hauptspezialisierung in Delphi bringe ich auch praktische Erfahrung in **Flutter und Dart** mit.
+
+> *Delphi ist eine Sprache mit Geschichte. Vorherige Generationen haben damit robuste Software aufgebaut. Heute führt eine neue Generation von Entwicklern diese Arbeit fort – sie modernisiert bestehende Abläufe, wendet saubere Software-Engineering-Prinzipien an und nutzt moderne Werkzeuge inklusive KI-gestützter Entwicklung, um effiziente Anwendungen zu realisieren.*
+
+---
+
+## Aktuelles Projekt
+
+### [Warenverwaltung](https://github.com/YoussefElGuerdany/Warenverwaltung)
+* **Beschreibung:** Eine strukturierte Warenwirtschaftsanwendung mit Fokus auf Bestandsorganisation, Produktmanagement und operative Geschäftsprozesse.
+* **Architektur & Stack:** Client/Server-Architektur auf Basis von **Delphi**, **mORMot2**, **REST-APIs** und **SQL**.
+
+---
+
+## Technisches Profil
+
+| Bereich | Technologien & Konzepte |
+| :--- | :--- |
+| **Primärsprache** | Delphi |
+| **Erweiterter Stack** | Flutter, Dart, SQL, REST-APIs, Git, GitHub |
+| **Backend & Architektur** | mORMot2, Client/Server-Anwendungen, Geschäftslogik, Datenbankmanagement |
+| **Interessen** | Clean Code, Softwarearchitektur, Unit-Tests, Integrationstests, Agile / Scrum, Wartung bestehender Systeme |
+
+---
+
+## Kontakt
+
+* **GitHub:** [@YoussefElGuerdany](https://github.com/YoussefElGuerdany)
+* **Standort:** Agadir, Marokko
