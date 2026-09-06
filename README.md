@@ -1,50 +1,53 @@
 <div align="center">
 
-# Youssef El Guerdany
-### Delphi Dev • Software Developer • Agadir, Morocco
+# 🔴 YOUSSEF EL GUERDANY
 
-[ 🇬🇧 English ](README.md) &nbsp;|&nbsp; [ 🇩🇪 Deutsch ](README.de.md)
+### Delphi Developer • Software Engineer • Object Pascal
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101828,50:1D2939,100:8B1E2D&height=120&section=header&text=DELPHI%20%2F%20OBJECT%20PASCAL&fontSize=32&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=E63946&center=true&vCenter=true&width=750&lines=Building+Reliable+Desktop+Software+with+Delphi;Object+Pascal+%7C+Delphi+%7C+SQL;Legacy+Systems+%7C+Maintenance+%7C+New+Features;Backend+Architecture+%7C+mORMot2+%7C+REST+APIs;From+Legacy+Code+to+Modern+Software+%E2%9A%A1" alt="Typing SVG" />
+
+<br><br>
+
+![Delphi](https://img.shields.io/badge/Delphi-E63946?style=for-the-badge&logo=delphi&logoColor=white)
+![Object Pascal](https://img.shields.io/badge/Object%20Pascal-8B1E2D?style=for-the-badge&logo=pascal&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1D2939?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-101828?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-<p align="center">
-  <img src="assets/hero-animation.svg" alt="Youssef El Guerdany - Evolution Animation" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+## 🧑‍💻 About Me
 
-## About Me
+```pascal
+type
+  TDeveloper = record
+    Name: string;
+    Role: string;
+    Location: string;
+    MainLanguage: string;
+    Interests: array of string;
+  end;
 
-I am **Youssef El Guerdany**, a Software Developer based in **Agadir, Morocco**, specializing heavily in **Delphi Development**. 
-
-I build and maintain business applications, robust backend services, and client/server software architectures. My focus centers on writing clean, reliable code while modernizing software systems. Alongside my primary Delphi expertise, I also work with **Flutter and Dart** for multi-platform delivery.
-
-> *Delphi is a language with history. Previous generations built robust software with it. Today, a new generation of developers is continuing that work—modernizing legacy workflows, applying clean engineering principles, and leveraging modern tools including AI-assisted development.*
-
----
-
-## Current Project
-
-### [Warenverwaltung](https://github.com/YoussefElGuerdany/Warenverwaltung)
-* **Description:** A warehouse management application focused on inventory organization, product tracking, and core business operations.
-* **Architecture & Stack:** Client/Server layout built using **Delphi**, **mORMot2**, **REST APIs**, and **SQL**.
-
----
-
-## Technical Profile
-
-| Category | Technologies & Practices |
-| :--- | :--- |
-| **Primary Specialization** | Delphi Development |
-| **Additional Stack** | Flutter, Dart, SQL, REST APIs, Git, GitHub |
-| **Backend & Architecture** | mORMot2, Client / Server Applications, Business Logic, Relational Databases |
-| **Engineering Interests** | Clean Code, Software Architecture, Unit Testing, Integration Testing, Agile / Scrum, Legacy Maintenance |
-
----
-
-## Connect
-
-* **GitHub:** [@YoussefElGuerdany](https://github.com/YoussefElGuerdany)
-* **Location:** Agadir, Morocco
+const
+  Youssef: TDeveloper = (
+    Name: 'Youssef El Guerdany',
+    Role: 'Delphi Developer',
+    Location: 'Agadir, Morocco 🇲🇦',
+    MainLanguage: 'Object Pascal / Delphi',
+    Interests: [
+      'Software Architecture',
+      'Database Development',
+      'REST APIs',
+      'Legacy Modernization',
+      'Clean & Maintainable Code'
+    ]
+  );
