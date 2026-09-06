@@ -2,15 +2,19 @@
 
 **Software Developer**
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1800&color=666666&width=500&lines=Delphi+Developer;Backend+%26+Business+Applications;Building+Reliable+Software" alt="Typing animation" />
+<p align="center">
+  <img src="./assets/delphi-evolution.svg" alt="Delphi evolution animation" />
+</p>
+
+<p align="center">
+  <sub>Different generations. One language. A new generation of developers.</sub>
 </p>
 
 ---
 
 ### About
 
-I'm a Software Developer focused on building and maintaining business applications.
+I'm a Software Developer focused on building reliable business applications.
 
 My main experience is with **Delphi**, working on existing systems, implementing new features, and improving software reliability.
 
@@ -20,11 +24,11 @@ I also have a background in **Flutter** and an interest in backend development, 
 
 ### Current Focus
 
-* Developing business applications with Delphi
-* Building backend services with mORMot2
-* Working with REST APIs and databases
-* Improving legacy systems and code quality
-* Learning more about testing and software architecture
+* Delphi development
+* Backend services with mORMot2
+* REST APIs and databases
+* Legacy system maintenance
+* Testing and software architecture
 
 ---
 
