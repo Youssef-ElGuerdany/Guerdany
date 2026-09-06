@@ -1,63 +1,45 @@
-# Youssef El Guerdany
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280" role="img" aria-label="Delphi evolution from Pascal to modern software development">
+  <rect width="900" height="280" rx="12" fill="#111111"/>
+  <rect x="0" y="0" width="900" height="36" rx="12" fill="#1c1c1c"/>
+  <circle cx="22" cy="18" r="5" fill="#555555"/>
+  <circle cx="40" cy="18" r="5" fill="#555555"/>
+  <circle cx="58" cy="18" r="5" fill="#555555"/>
+  <text x="78" y="23" fill="#777777" font-family="monospace" font-size="12">delphi@developer:~</text>
 
-**Software Developer**
+  <g font-family="monospace" font-size="16" fill="#d4d4d4">
+    <text x="35" y="75">
+      <tspan fill="#888888">$</tspan> history
+    </text>
 
-<p align="center">
-  <img src="./assets/delphi-evolution.svg" alt="Delphi evolution animation" />
-</p>
+```
+<text x="35" y="108" fill="#888888">
+  <tspan fill="#888888">01</tspan> Pascal
+</text>
 
-<p align="center">
-  <sub>Different generations. One language. A new generation of developers.</sub>
-</p>
+<text x="35" y="138" fill="#888888">
+  <tspan fill="#888888">02</tspan> Delphi
+</text>
 
----
+<text x="35" y="168" fill="#888888">
+  <tspan fill="#888888">03</tspan> Modern Software
+</text>
 
-### About
+<text x="35" y="198" fill="#888888">
+  <tspan fill="#888888">04</tspan> AI-assisted Development
+</text>
 
-I'm a Software Developer focused on building reliable business applications.
+<text x="35" y="238" fill="#d4d4d4">
+  <tspan fill="#888888">$</tspan> <tspan fill="#ffffff">echo</tspan> "The language evolves. The developer evolves."
+</text>
+```
 
-My main experience is with **Delphi**, working on existing systems, implementing new features, and improving software reliability.
+  </g>
 
-I also have a background in **Flutter** and an interest in backend development, software architecture, and clean code.
+  <g font-family="monospace" font-size="14" fill="#666666">
+    <text x="35" y="258">Delphi · Software Development · Morocco</text>
+  </g>
 
----
-
-### Current Focus
-
-* Delphi development
-* Backend services with mORMot2
-* REST APIs and databases
-* Legacy system maintenance
-* Testing and software architecture
-
----
-
-### Selected Work
-
-**Warenverwaltung**
-
-A warehouse management application focused on inventory, product management, and business operations.
-
-`Delphi` · `mORMot2` · `REST API` · `SQL`
-
----
-
-### Technologies
-
-**Primary:** Delphi
-
-**Also:** Flutter · Dart · SQL · REST APIs · Git
-
-**Practices:** Clean Code · Testing · Agile / Scrum
-
----
-
-### Contact
-
-[GitHub](https://github.com/YOUR_GITHUB_USERNAME)
-
----
-
-<p align="center">
-  <sub>Software Developer · Delphi · Morocco</sub>
-</p>
+  <rect x="35" y="250" width="8" height="16" fill="#d4d4d4">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
