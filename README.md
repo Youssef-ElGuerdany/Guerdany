@@ -1,30 +1,28 @@
 <div align="center">
 
-<br>
+<br><br>
 
-# ✦ YOUSSEF EL GUERDANY ✦
-
-### 🔴 Delphi Developer · Object Pascal · Software Engineering
-
-<br>
-
-<div align="center">
-
-<img src="https://cdn.simpleicons.org/delphi/E63946" width="70">
-
-<br>
-
-**✦ DELPHI DEVELOPER ✦**
-
-</div>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=900&color=E63946&center=true&vCenter=true&width=750&lines=Object+Pascal+%E2%80%A2+Delphi+%E2%80%A2+Software+Engineering;Building+Business+Software+with+Delphi;Legacy+Systems+%E2%80%A2+Modern+Architecture;Desktop+Applications+%E2%80%A2+REST+APIs+%E2%80%A2+Databases;Turning+Complex+Problems+into+Reliable+Software+%E2%9A%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&pause=1800&color=E63946&center=true&vCenter=true&width=500&lines=INITIALIZING...;OBJECT+PASCAL+ENVIRONMENT;DELPHI+RUNTIME+READY;WELCOME%2C+DEVELOPER." />
 
 <br><br>
 
-⭐ **WELCOME TO MY DELPHI WORLD** ⭐
+# 🔴
+
+# YOUSSEF EL GUERDANY
+
+### DELPHI DEVELOPER
+
+<br>
+
+`OBJECT PASCAL`    `SOFTWARE ENGINEERING`
+
+<br><br>
+
+### `SCROLL TO EXPLORE`
+
+↓
+↓
+↓
 
 </div>
 
@@ -32,47 +30,85 @@
 
 <div align="center">
 
-# ✨ ABOUT ME
+# OBJECT
 
-### `Initializing Developer.exe...`
+# PASCAL
+
+### `A LANGUAGE.`
+
+### `A TOOL.`
+
+### `A CRAFT.`
+
+<br>
+
+🔴
+
+</div>
+
+---
+
+<div align="center">
+
+# DELPHI
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=600&color=E63946&center=true&vCenter=true&width=600&lines=BUILDING+DESKTOP+SOFTWARE...;CONNECTING+DATABASES...;DESIGNING+APPLICATIONS...;DEBUGGING+LEGACY+SYSTEMS...;IMPROVING+EVERY+BUILD..." />
+
+<br><br>
+
+```text
+╭────────────────────────────────────╮
+│                                    │
+│        DELPHI DEVELOPMENT          │
+│                                    │
+│   SOURCE        ██████████ 100%    │
+│   COMPILE       ██████████ 100%    │
+│   LINK          ██████████ 100%    │
+│   TEST          █████████░  90%    │
+│                                    │
+│   STATUS: BUILD SUCCESSFUL ✓       │
+│                                    │
+╰────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+<div align="center">
+
+# SYSTEM
 
 <br>
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║        🔴  DELPHI DEVELOPMENT ENVIRONMENT            ║
-║                                                      ║
-║   > Loading developer profile...                    ║
-║   > Loading Object Pascal...             [██████]   ║
-║   > Loading experience...                [██████]   ║
-║   > Loading architecture...              [██████]   ║
-║   > Loading curiosity...                 [██████]   ║
-║                                                      ║
-║                 STATUS: ONLINE                       ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+             ┌─────────────────┐
+             │     DELPHI      │
+             └────────┬────────┘
+                      │
+          ┌───────────┼───────────┐
+          ↓           ↓           ↓
+       DOMAIN     APPLICATION   INFRASTRUCTURE
+          │           │           │
+          └───────────┼───────────┘
+                      ↓
+                 DATABASE
+                      │
+                      ↓
+                    API
 ```
 
 <br>
 
-### 👨‍💻 I'm Youssef
+### `DESIGN`
 
-I'm a **Delphi Developer** passionate about building reliable
-software, understanding complex systems and continuously improving
-the way applications are designed and maintained.
+### `BUILD`
 
-My main world is **Delphi & Object Pascal**, where I work with
-business applications, databases, application logic and evolving
-legacy systems.
+### `TEST`
 
-I like the challenge behind software that has been running for years:
-
-**Understand → Debug → Improve → Refactor → Test → Deliver**
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=700&color=8B1E2D&center=true&vCenter=true&width=650&lines=Debugging+legacy+code...;Understanding+business+logic...;Designing+cleaner+solutions...;Writing+maintainable+Delphi+code...;Testing+before+shipping...;Building+the+next+version+%F0%9F%9A%80" />
+### `EVOLVE`
 
 </div>
 
@@ -80,41 +116,48 @@ I like the challenge behind software that has been running for years:
 
 <div align="center">
 
-# 🔴 DELPHI CORE
+# PROJECT 01
 
-<br>
+## WARENVERWALTUNG
 
-### ✦ My development universe ✦
+### INVENTORY MANAGEMENT SYSTEM
 
 <br>
 
 ```text
-                         ✦
-                        / \
-                       /   \
-                      / 🔴  \
-                     / DELPHI\
-                    /         \
-                   /___________\
-                        │
-        ┌───────────────┼───────────────┐
-        │               │               │
-        ▼               ▼               ▼
-   OBJECT PASCAL     DATABASES       SOFTWARE
-        │               │           ARCHITECTURE
-        │               │               │
-        ▼               ▼               ▼
-      LOGIC          DATA          STRUCTURE
-        │               │               │
-        └───────────────┼───────────────┘
-                        │
-                        ▼
-                   🚀 SOFTWARE
+                    ┌──────────────┐
+                    │     USER     │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │      UI      │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │ APPLICATION  │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │    DOMAIN    │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │    SERVER    │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │   DATABASE   │
+                    └──────────────┘
 ```
 
 <br>
 
-`Object Pascal`  •  `Delphi`  •  `SQL`  •  `REST`  •  `mORMot2`
+`DELPHI` · `mORMot2` · `DATABASE` · `REST`
 
 </div>
 
@@ -122,47 +165,31 @@ I like the challenge behind software that has been running for years:
 
 <div align="center">
 
-# ⚡ THE WAY I BUILD
+# LEGACY
+
+### OLD CODE IS NOT DEAD CODE.
 
 <br>
 
-### `01` — UNDERSTAND
+```text
+             FIND
+              ↓
+           UNDERSTAND
+              ↓
+            DEBUG
+              ↓
+           REFACTOR
+              ↓
+             TEST
+              ↓
+           IMPROVE
+```
 
-🔎 Understand the business requirement <br>
-🔎 Explore the existing system <br>
-🔎 Identify the real problem
+<br>
 
-↓
+### `PRESERVE WHAT WORKS.`
 
-### `02` — DESIGN
-
-🧠 Think before changing <br>
-🧩 Separate responsibilities <br>
-🏗️ Keep the architecture maintainable
-
-↓
-
-### `03` — BUILD
-
-🔴 Write Delphi / Object Pascal <br>
-🗄️ Work with data <br>
-🌐 Connect services and APIs
-
-↓
-
-### `04` — TEST
-
-🧪 Verify the behavior <br>
-🐛 Find regressions <br>
-✅ Make sure the solution actually works
-
-↓
-
-### `05` — IMPROVE
-
-♻️ Refactor <br>
-⚡ Optimize <br>
-🚀 Make tomorrow's code better than today's
+### `IMPROVE WHAT CAN BE BETTER.`
 
 </div>
 
@@ -170,37 +197,86 @@ I like the challenge behind software that has been running for years:
 
 <div align="center">
 
-# 🌟 ONE LINE OF DELPHI
+# STACK
 
 <br>
 
-```pascal
-program Youssef;
+🔴 **DELPHI**
 
-begin
+`Object Pascal`
 
-  while SoftwareNeedsImprovement do
-  begin
+`mORMot2`
 
-    Learn;
-    Build;
-    Test;
-    Refactor;
-    Repeat;
+`SQL`
 
-  end;
+`REST API`
 
-end.
+`Git`
+
+`Software Architecture`
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,windows,postgres,mysql&perline=5" />
+
+</div>
+
+---
+
+<div align="center">
+
+# CURRENT BUILD
+
+<br>
+
+```text
+██████████████████████████████████████
+
+DELPHI DEVELOPMENT       ██████████
+OBJECT PASCAL             ██████████
+SOFTWARE ARCHITECTURE     ████████░░
+DATABASES                 ████████░░
+REST / API                ███████░░░
+TESTING                   ███████░░░
+mORMot2                   ████████░░
+
+██████████████████████████████████████
 ```
 
+</div>
+
+---
+
+<div align="center">
+
+# PHILOSOPHY
+
 <br>
 
-### 🔴 `Compile.`
+## `MAKE IT WORK.`
 
-### ✦ `Debug.`
+## `MAKE IT CLEAN.`
 
-### ⭐ `Improve.`
+## `MAKE IT LAST.`
 
-### 🚀 `Repeat.`
+<br>
+
+🔴
+
+### KEEP BUILDING.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101828,50:8B1E2D,100:E63946&height=180&section=footer&animation=fadeIn" width="100%" />
+
+<br>
+
+`YOUSSEF EL GUERDANY`
+
+**DELPHI DEVELOPER · OBJECT PASCAL · SOFTWARE ENGINEERING**
 
 </div>
